@@ -1,0 +1,30 @@
+[
+    {
+        "topic": "Missed Dose - General",
+        "content": "If you miss a dose, take it as soon as you remember. If it is almost time for your next dose, skip the missed dose and return to your regular schedule. Do not take two doses at once."
+    },
+    {
+        "topic": "Amlodipine (Blood Pressure)",
+        "content": "Amlodipine is used to treat high blood pressure. If a dose is missed, take it within 12 hours. If more than 12 hours have passed, skip the dose. Missing doses can cause a spike in blood pressure."
+    },
+    {
+        "topic": "Metformin (Diabetes)",
+        "content": "Metformin helps control blood sugar. If you miss a dose, take it with food as soon as possible. If it's time for the next dose, skip the missed one. Watch for signs of high blood sugar (thirst, frequent urination)."
+    },
+    {
+        "topic": "Emergency - Chest Pain",
+        "content": "If you experience sudden chest pain, shortness of breath, or dizziness after missing heart medication, contact emergency services immediately and notify your caregiver."
+    },
+    {
+        "topic": "Refill Protocol",
+        "content": "Always request a refill when you have at least 5 days of medication left. This prevents gaps in treatment that could lead to health complications."
+    },
+    {
+        "topic": "Headache and General Pain",
+        "content": "For a mild headache or general pain, ensure you are drinking enough water and resting. You may take a pain reliever like Paracetamol if it is in your active prescriptions. If the headache is severe, persistent, or accompanied by other symptoms like fever, please notify your caregiver or a doctor immediately."
+    },
+    {
+        "topic": "Fever or Cold Symptoms",
+        "content": "If you are experiencing a fever, chills, or cold symptoms, get plenty of rest and stay hydrated. Monitor your temperature. If the fever exceeds 101°F (38.3°C) or lasts for more than a few days, contact your healthcare provider."
+    }
+]
